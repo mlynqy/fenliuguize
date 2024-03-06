@@ -10,3 +10,5 @@ DOMAIN-SUFFIX,jszwfw.gov.cn
 DOMAIN-SUFFIX,jsga.gov.cn
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,zijieapi.com
+#no china
+DOMAIN-SUFFIX,youtube.com
